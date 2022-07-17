@@ -1,7 +1,7 @@
 package cn.st4rlight.model;
 
 /**
- * leetcode默认不适用getter、setter
+ * leetcode默认不使用getter、setter
  *
  * @author st4rlight <st4rlight@163.com>
  * Created on 2022-07-04
