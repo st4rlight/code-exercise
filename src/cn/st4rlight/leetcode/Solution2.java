@@ -3,7 +3,7 @@ package cn.st4rlight.leetcode;
 import cn.st4rlight.model.ListNode;
 
 /**
- * <a href="https://leetcode.cn/problems/add-two-numbers/">2. 两数相加</a>
+ * <a href="https://leetcode.cn/problems/add-two-numbers">2. 两数相加</a>
  * <p>注意l1、l2可能一长一短，而且remain最后可能不为0</p>
  *
  * @author st4rlight <st4rlight@163.com>

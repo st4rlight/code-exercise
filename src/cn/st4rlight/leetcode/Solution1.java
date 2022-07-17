@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * <a href="https://leetcode.cn/problems/two-sum/">1. 两数之和</a>
+ * <a href="https://leetcode.cn/problems/two-sum">1. 两数之和</a>
  *
  * @author st4rlight <st4rlight@163.com>
  * Created on 2022-07-04

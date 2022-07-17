@@ -1,7 +1,7 @@
 package cn.st4rlight.leetcode;
 
 /**
- * <a href="https://leetcode.cn/problems/search-insert-position/">35. 搜索插入位置</a>
+ * <a href="https://leetcode.cn/problems/search-insert-position">35. 搜索插入位置</a>
  * <p>二分查找，暴搜没意思</p>
  *
  * @author st4rlight <st4rlight@163.com>
